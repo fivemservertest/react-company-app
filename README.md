@@ -15,3 +15,6 @@ Quotation menu is the page that user can add products to quotation and save the 
 Quotation Management menu will display the saved quotation which can be deleted and calculate the summary the amount sold,
 
 and Product Management menu will display all products as a table, user can add more products by clicking on Add button and can delete the unwanted one.
+
+##Remark
+#Please refer to https://github.com/fivemservertest/appandserver for front-end and back-end before build.
